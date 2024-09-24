@@ -18,9 +18,9 @@ This project demonstrates the development of a smart fridge control system using
 ## System Architecture
 The circuit layout demonstrates how the Arduino is connected to the sensors and LEDs. Each component plays a specific role in tracking and displaying item levels, simulating a smart appliance setup. The system is flexible and scalable, allowing for the integration of additional sensors or functionality for future development.
 
-![Circuit Diagram](images/Gesamtschaltung.jpg)  
+![Circuit Diagram](Gesamtschaltung.jpg)
+![Overall Setup](Gesamzaufbau.jpg)
 
-![Overall Setup](images/Gesamzaufbau.jpg) 
 
 
 ## How to Run the System
